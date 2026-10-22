@@ -1,1 +1,1 @@
-![Rain Logo](./assets/logo.png)
+![Rain Logo](./logo.png)
